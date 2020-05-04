@@ -7,6 +7,8 @@ This project helps in analysis of data related to NYC parking tickets based on f
 2. Apache Hive
 3. Apache Pig
 
+Along with this analysis, it also includes a Recommender System built in Spark using the ALS model.
+
 But to begin with the analysis, the data needs to be pre-processed so as to derive meaning out of it. Following steps were performed:
 1. Data Collection (https://data.cityofnewyork.us/City-Government/Parking-Violations-Issued-Fiscal-Year-2020/pvqr-7yc4)
 2. Data Pre-processing using Python and Spark
